@@ -1,4 +1,6 @@
-# Metal and Mud
-EP Media client site — Coming Soon placeholder.
-Status: In Design
+# Metal + Mud
+
+EP Media client site — handbuilt ceramics, small-batch pottery.
+
+Status: Live
 Built by: EP Media · eliteprodigyway@gmail.com
